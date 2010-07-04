@@ -1,0 +1,14 @@
+<moosex>
+  <daemon name="1" package="CubeStats::Server">
+    <attributes name="Boxcube Only" clantag="" irc="1" limit="20" maprot="maprot/boxcube" no="1" official="1" ranked="0" serverbin="../bin/ac_server_cubestats" serverroot="~/cubestats/assaultcube" voteyourmaprot="0" />
+  </daemon>
+  <daemon name="16" package="CubeStats::Server">
+    <attributes name="CustomMaps CTF" clantag="" irc="1" limit="20" maprot="maprot/customctf" no="16" official="1" ranked="0" serverbin="../bin/ac_server_cubestats" serverroot="~/cubestats/assaultcube" voteyourmaprot="0" />
+  </daemon>
+  <daemon name="21" package="CubeStats::Server">
+    <attributes name="noober dust2 CTF" clantag="" irc="1" limit="16" maprot="maprot/dust2ctf" no="21" official="1" ranked="0" serverbin="../bin/ac_server_cubestats" serverroot="~/cubestats/assaultcube" voteyourmaprot="0" />
+  </daemon>
+  <daemon name="23" package="CubeStats::Server">
+    <attributes name="Italy Deluxe CTF" clantag="" irc="1" limit="20" maprot="maprot/italyctf" no="23" official="1" ranked="0" serverbin="../bin/ac_server_cubestats" serverroot="~/cubestats/assaultcube" voteyourmaprot="0" />
+  </daemon>
+</moosex>
