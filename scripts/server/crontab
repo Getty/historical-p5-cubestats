@@ -1,0 +1,3 @@
+MAILTO=torsten@metaluna4.de
+*/5 * * * *		~/cubestats/scripts/server/cron_daemoncontroller.sh
+
